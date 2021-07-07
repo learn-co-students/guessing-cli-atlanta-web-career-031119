@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-
+require 'pry'
 describe "Guessing CLI" do
 
   context 'user inputs' do
